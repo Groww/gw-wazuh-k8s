@@ -1,0 +1,1 @@
+# gw-wazuh-k8s
